@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FC62CA5C1A4875B600FF56F7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC62CA5B1A4875B600FF56F7 /* main.swift */; };
+		FC62CA631A48762600FF56F7 /* ELDataStructures.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC62CA621A48762600FF56F7 /* ELDataStructures.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		FC62CA581A4875B600FF56F7 /* swiftDataStructures */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = swiftDataStructures; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC62CA5B1A4875B600FF56F7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		FC62CA621A48762600FF56F7 /* ELDataStructures.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ELDataStructures.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				FC62CA5B1A4875B600FF56F7 /* main.swift */,
+				FC62CA621A48762600FF56F7 /* ELDataStructures.swift */,
 			);
 			path = swiftDataStructures;
 			sourceTree = "<group>";
@@ -119,6 +122,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FC62CA5C1A4875B600FF56F7 /* main.swift in Sources */,
+				FC62CA631A48762600FF56F7 /* ELDataStructures.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -233,6 +237,7 @@
 				FC62CA611A4875B600FF56F7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
